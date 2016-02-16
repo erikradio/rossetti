@@ -1,4 +1,4 @@
-Rossetti Luna Processing 
+###Rossetti Luna Processing 
 
 Initial file is rosetti_metadata.csv
 
@@ -15,3 +15,4 @@ Initial file is rosetti_metadata.csv
 7. rossetti_splitPreLuna.xml + fixTitleTwo.py = inserts page number into each title
 
 8. rossetti_splitPreluna + rossettiMODS2Luna.xsl = lunaCompleteRossetti.xml + deleteEmpty.xsl
+
